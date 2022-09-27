@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+}
+
+.signup_button{
+    width: 100px;
+    align-items: flex-end;
+    border-radius: 25px;
+    background-color: #3882F6;
+}
+
+.header-text{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+
+.bikepicroom{
+    max-width: 650px;
+    max-height: auto;
+    flex-shrink: 0;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    margin-right: 150px;
+    opacity: 0.8;
+    border-radius: 50px;
+}
+
+img{
+    max-width: 280px;
+    max-height: auto;
+    border-radius: 70px;
+    opacity: 0.9;
+}
+
+.heroLogo{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    padding: 20px;
+}
+
+.links{
+    display: flex;
+    gap: 30px;
+}
+
+.heroMainText{
+    font-size: 18px;
+    color: #F9FAF8;
+    max-width: 500px;
+    margin-top: 10px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.header-facts {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 800;
+    text-align: center;
+    background-color: #E5E7EB;
+}
+
+.facts-pictures{
+    display:flex;
+    justify-content: space-around;
+    gap: 30px;
+    align-items: flex-start;
+    background-color: #E5E7EB;
+    opacity: 0.9;
+    padding: 30px;
+}
+
+.facts{
+    display: flex;
+    flex-direction: column;
+    max-width: 25%;
+    align-items: center;
+    justify-content: center;
+}
+
+.inspiringquote{
+    text-align: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: larger;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    background-color: #3882F6;
+}
+
+.calltoaction{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.footer{
+    color:#E5E7EB
+}
+
+.signup-button-bottom{
+    background-color: #3882F6;
+    border-radius: 20px;
+    width: 150px;
+    color:#E5E7EB;
+    border-color: #E5E7EB;
+}
